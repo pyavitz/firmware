@@ -1,1 +1,1 @@
-## NanoPi NEO Plus2
+## Radxa Zero
