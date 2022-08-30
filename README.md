@@ -1,1 +1,1 @@
-## NanoPi NEO Plus2
+## Cubietruck A20
