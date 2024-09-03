@@ -11,8 +11,8 @@ boardflags2=0x0
 boardflags3=0x0800c08b
 macaddr=00:90:4c:c5:12:38
 #ccode modified by Murata
-ccode=0
-#ccode=XS
+#ccode=0
+ccode=XS
 regrev=0
 antswitch=0
 pdgain5g=1
